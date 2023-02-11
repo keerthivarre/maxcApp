@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/maxcApp/static/js/app.64584c86.chunk.js",
-    "app.js.map": "/maxcApp/static/js/app.64584c86.chunk.js.map",
+    "app.js": "/maxcApp/static/js/app.3b978f2d.chunk.js",
+    "app.js.map": "/maxcApp/static/js/app.3b978f2d.chunk.js.map",
     "runtime~app.js": "/maxcApp/static/js/runtime~app.060be0c3.js",
     "runtime~app.js.map": "/maxcApp/static/js/runtime~app.060be0c3.js.map",
-    "static/js/2.6b80e17c.chunk.js": "/maxcApp/static/js/2.6b80e17c.chunk.js",
-    "static/js/2.6b80e17c.chunk.js.map": "/maxcApp/static/js/2.6b80e17c.chunk.js.map",
+    "static/js/2.900da647.chunk.js": "/maxcApp/static/js/2.900da647.chunk.js",
+    "static/js/2.900da647.chunk.js.map": "/maxcApp/static/js/2.900da647.chunk.js.map",
     "fonts/AntDesign.ttf": "/maxcApp/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/maxcApp/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/maxcApp/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/maxcApp/index.html",
     "manifest.json": "/maxcApp/manifest.json",
     "serve.json": "/maxcApp/serve.json",
-    "static/js/2.6b80e17c.chunk.js.LICENSE.txt": "/maxcApp/static/js/2.6b80e17c.chunk.js.LICENSE.txt",
+    "static/js/2.900da647.chunk.js.LICENSE.txt": "/maxcApp/static/js/2.900da647.chunk.js.LICENSE.txt",
     "static/media/bell.png": "/maxcApp/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/maxcApp/static/media/heart.23b5c2c0.png",
     "static/media/rocket.png": "/maxcApp/static/media/rocket.d2f3bf41.png",
@@ -32,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.060be0c3.js",
-    "static/js/2.6b80e17c.chunk.js",
-    "static/js/app.64584c86.chunk.js"
+    "static/js/2.900da647.chunk.js",
+    "static/js/app.3b978f2d.chunk.js"
   ]
 }
