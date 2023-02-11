@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/maxcApp/static/js/app.3b978f2d.chunk.js",
-    "app.js.map": "/maxcApp/static/js/app.3b978f2d.chunk.js.map",
+    "app.js": "/maxcApp/static/js/app.4a3c56a7.chunk.js",
+    "app.js.map": "/maxcApp/static/js/app.4a3c56a7.chunk.js.map",
     "runtime~app.js": "/maxcApp/static/js/runtime~app.060be0c3.js",
     "runtime~app.js.map": "/maxcApp/static/js/runtime~app.060be0c3.js.map",
     "static/js/2.900da647.chunk.js": "/maxcApp/static/js/2.900da647.chunk.js",
@@ -33,6 +33,6 @@
   "entrypoints": [
     "static/js/runtime~app.060be0c3.js",
     "static/js/2.900da647.chunk.js",
-    "static/js/app.3b978f2d.chunk.js"
+    "static/js/app.4a3c56a7.chunk.js"
   ]
 }
